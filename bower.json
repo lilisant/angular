@@ -1,0 +1,25 @@
+{
+  "name": "angular-custom-filters",
+  "version": "0.0.1",
+  "authors": [
+    "Liliana <lilianasantiesteban@hotmail.com>"
+  ],
+  "description": "jsadkjh",
+  "main": "src/angular-custom-filters.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+    "examples"
+  ],
+  "dependencies": {
+    "angularjs": "~1.2.21"
+  }
+}
