@@ -16,10 +16,11 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
     "examples"
   ],
   "dependencies": {
-    "angularjs": "~1.2.21"
+    "angularjs": "~1.2.21",
+    "angular-mocks": "~1.2.21"
   }
 }
